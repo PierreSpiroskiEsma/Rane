@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3372966126389249951
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 864565825414182640, guid: fe7c40744e3066243aa0d09fac3b152c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -10.48
+      objectReference: {fileID: 0}
+    - target: {fileID: 864565825414182640, guid: fe7c40744e3066243aa0d09fac3b152c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -91.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 864565825414182640, guid: fe7c40744e3066243aa0d09fac3b152c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.0070968
+      objectReference: {fileID: 0}
+    - target: {fileID: 864565825414182640, guid: fe7c40744e3066243aa0d09fac3b152c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 864565825414182640, guid: fe7c40744e3066243aa0d09fac3b152c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 864565825414182640, guid: fe7c40744e3066243aa0d09fac3b152c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 864565825414182640, guid: fe7c40744e3066243aa0d09fac3b152c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 864565825414182640, guid: fe7c40744e3066243aa0d09fac3b152c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 864565825414182640, guid: fe7c40744e3066243aa0d09fac3b152c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 864565825414182640, guid: fe7c40744e3066243aa0d09fac3b152c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1066160094781130574, guid: fe7c40744e3066243aa0d09fac3b152c, type: 3}
+      propertyPath: m_Size.x
+      value: 4.8843384
+      objectReference: {fileID: 0}
+    - target: {fileID: 1066160094781130574, guid: fe7c40744e3066243aa0d09fac3b152c, type: 3}
+      propertyPath: m_Size.y
+      value: 5.329436
+      objectReference: {fileID: 0}
+    - target: {fileID: 1066160094781130574, guid: fe7c40744e3066243aa0d09fac3b152c, type: 3}
+      propertyPath: m_Offset.x
+      value: 0.007926941
+      objectReference: {fileID: 0}
+    - target: {fileID: 1066160094781130574, guid: fe7c40744e3066243aa0d09fac3b152c, type: 3}
+      propertyPath: m_Offset.y
+      value: -0.00000023841858
+      objectReference: {fileID: 0}
+    - target: {fileID: 1681812788323102078, guid: fe7c40744e3066243aa0d09fac3b152c, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: d8662b3a70bd454468d753817dc91c58, type: 3}
+    - target: {fileID: 1681812788323102078, guid: fe7c40744e3066243aa0d09fac3b152c, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 4298830531318875969, guid: fe7c40744e3066243aa0d09fac3b152c, type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 6200000, guid: 72153288a176a2e42aa3b551be0e64f7, type: 2}
+    - target: {fileID: 5231103867007973912, guid: fe7c40744e3066243aa0d09fac3b152c, type: 3}
+      propertyPath: Default_Direction_Right
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5231103867007973912, guid: fe7c40744e3066243aa0d09fac3b152c, type: 3}
+      propertyPath: Patrol_Detector_ColisionLayer.m_Bits
+      value: 128
+      objectReference: {fileID: 0}
+    - target: {fileID: 6836848639354959979, guid: fe7c40744e3066243aa0d09fac3b152c, type: 3}
+      propertyPath: m_Name
+      value: Mob_Fill_The_Destroyer_Of_Studios
+      objectReference: {fileID: 0}
+    - target: {fileID: 6836848639354959979, guid: fe7c40744e3066243aa0d09fac3b152c, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 6836848639354959979, guid: fe7c40744e3066243aa0d09fac3b152c, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: fe7c40744e3066243aa0d09fac3b152c, type: 3}
